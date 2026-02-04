@@ -6,7 +6,7 @@ metadata:
   labels:
     team: helsemelding
 spec:
-  image: europe-north1-docker.pkg.dev/nais-management-233d/poao/kafka-manager:2.2021.05.31_08.41-622e72c02ee1
+  image: europe-north1-docker.pkg.dev/nais-management-233d/poao/kafka-manager:2025.12.12-11.34-cf4af6a
   port: 8080
   webproxy: true
   ingresses:
