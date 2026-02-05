@@ -19,7 +19,7 @@ For å få innsyn i en ny topic:
 }
 ```
 
-2. Gi kafka-manager lesetilgang til topic i definisjonen av selve topicen, for eksempel:
+2. Gi `kafka-manager` lesetilgang til topic i definisjonen av selve topicen, for eksempel:
 
 ```
 spec:
@@ -29,7 +29,7 @@ spec:
       team: helsemelding
 ```
 
-3. Deploy topicen og kafka-manager på nytt.
+3. Deploy topicen og `kafka-manager` på nytt.
 
 ## Creds
 
