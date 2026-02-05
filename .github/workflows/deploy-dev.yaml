@@ -18,4 +18,4 @@ jobs:
         env:
           "APIKEY": "${{ secrets.NAIS_DEPLOY_APIKEY }}"
           "CLUSTER": "dev-gcp"
-          "RESOURCE": ".nais/helsemelding-kafka-manager-dev.yaml"
+          "RESOURCE": ".nais/kafka-manager-dev.yaml"

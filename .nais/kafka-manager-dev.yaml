@@ -1,7 +1,7 @@
 kind: Application
 apiVersion: nais.io/v1alpha1
 metadata:
-  name: helsemelding-kafka-manager
+  name: kafka-manager
   namespace: helsemelding
   labels:
     team: helsemelding
