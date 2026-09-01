@@ -58,7 +58,7 @@ spec:
               "valueDeserializerType": "STRING"
             },
             {
-              "name": "helsemelding.dialog.status.json",
+              "name": "helsemelding.dialog.out.status",
               "location": "AIVEN",
               "keyDeserializerType": "STRING",
               "valueDeserializerType": "STRING"
