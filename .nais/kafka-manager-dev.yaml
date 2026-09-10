@@ -76,7 +76,7 @@ spec:
               "valueDeserializerType": "STRING"
             },
             {
-              "name": "helsemelding.dialog.in.json",
+              "name": "helsemelding.dialog.in",
               "location": "AIVEN",
               "keyDeserializerType": "STRING",
               "valueDeserializerType": "STRING"
