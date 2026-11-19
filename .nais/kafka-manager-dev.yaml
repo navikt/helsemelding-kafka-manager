@@ -52,6 +52,18 @@ spec:
               "valueDeserializerType": "STRING"
             },
             {
+              "name": "helsemelding.dialog.out.xml.edi1",
+              "location": "AIVEN",
+              "keyDeserializerType": "STRING",
+              "valueDeserializerType": "STRING"
+            },
+            {
+              "name": "helsemelding.dialog.out.xml.status.edi1",
+              "location": "AIVEN",
+              "keyDeserializerType": "STRING",
+              "valueDeserializerType": "STRING"
+            },
+            {
               "name": "helsemelding.dialog.in.xml",
               "location": "AIVEN",
               "keyDeserializerType": "STRING",
